@@ -1,5 +1,8 @@
 # IK_Solver
-Kinematic Chain
+
+## in in this assignment we have textured the kinematic chain from previous assiments and the target
+
+
 IK Solver (CCD method) with OpenGL written with c++, project's solution is compiled with Visual Studio 2017.
 
 Using the cube mesh to render a cube in (5,0,0) and chain of boxes on the z axis direction. Picking an object using a color picking implementation.
